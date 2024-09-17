@@ -2,6 +2,9 @@
 Multipath Gateway Function for a Hybrid 5G and WiFi Network
 # Bi-Directional Communication with NAT and MPTCP
 
+![Architecture Overview](./GNS-setup.png)
+
+
 ## Overview
 This project demonstrates a bi-directional communication architecture involving multiple hosts, a **Multipath Function (MPF) Gateway**, and an external server. The architecture uses **Network Address Translation (NAT)** and **Multipath TCP (MPTCP)** for traffic routing between internal and external networks. The packets sent from **Host A** are captured on the MPF Gateway using the **PCAP library** and forwarded to the external server, which communicates with **Host B**.
 
