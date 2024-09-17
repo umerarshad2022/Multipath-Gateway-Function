@@ -2,7 +2,7 @@
 Multipath Gateway Function for a Hybrid 5G and WiFi Network
 # Bi-Directional Communication with NAT and MPTCP
 
-![Architecture Overview](./GNS-setup.png)
+![Architecture Overview](./GNS-Setup.png)
 
 
 ## Overview
